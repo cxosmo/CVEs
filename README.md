@@ -1,6 +1,9 @@
 # CVEs
-List of advisories published for attributed CVEs
-
-## CVE-2023-28522
-- https://www.ibm.com/support/pages/node/6965612
+Attributed CVEs:
 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-28522
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-4550
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-4551
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-4552
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-4553
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-4554
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-47395
