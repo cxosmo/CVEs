@@ -7,3 +7,5 @@ Attributed CVEs:
 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-4553
 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-4554
 - https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-47395
+- https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-37571
+  - https://industrial.softing.com/fileadmin/psirt/downloads/2024/syt-2024-1.html
